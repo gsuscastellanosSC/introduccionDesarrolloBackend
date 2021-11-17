@@ -29,5 +29,7 @@
     * WordPress
 ## ✅Class#8⚡️
 ```Proyecto: diseño y bosquejo de una API```
+## ✅Class#9⚡️
+```Proyecto: diseñando los endpoints de los Tweets```
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
