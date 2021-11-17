@@ -27,5 +27,7 @@
     * Google Docs
     * Slack
     * WordPress
+## ✅Class#8⚡️
+```Proyecto: diseño y bosquejo de una API```
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
