@@ -9,4 +9,7 @@
 ```Cómo se conecta el frontend con el backend: API y JSON```
 * SOAP
 * JSON
+## ✅Class#5⚡️
+```El lenguaje que habla Internet: HTTP```
 ## 🚧Links🚨
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
