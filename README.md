@@ -5,4 +5,8 @@
 ```Yin y Yang de una aplicación: frontend y backend```
 ## ✅Class#3⚡️
 ```Framework vs. librería```
+## ✅Class#4⚡️
+```Cómo se conecta el frontend con el backend: API y JSON```
+* SOAP
+* JSON
 ## 🚧Links🚨
