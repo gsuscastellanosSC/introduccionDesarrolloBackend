@@ -13,5 +13,19 @@
 ```El lenguaje que habla Internet: HTTP```
 ## ✅Class#6⚡️
 ```¿Cómo es el flujo de desarrollo de una aplicación web?```
+## ✅Class#7⚡️
+```El hogar de tu código: el servidor```
+* IAAS
+    * AWS
+    * AZURE
+    * Digital Ocean
+* PAAS
+    * Google Aee Engine
+    * Firebase
+    * Heroku
+* SAAS
+    * Google Docs
+    * Slack
+    * WordPress
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
