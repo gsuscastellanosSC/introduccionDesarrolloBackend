@@ -11,5 +11,7 @@
 * JSON
 ## ✅Class#5⚡️
 ```El lenguaje que habla Internet: HTTP```
+## ✅Class#6⚡️
+```¿Cómo es el flujo de desarrollo de una aplicación web?```
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
