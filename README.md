@@ -33,5 +33,7 @@
 ```Proyecto: diseñando los endpoints de los Tweets```
 ## ✅Class#10⚡️
 ```Proyecto: diseñando los endpoints para los usuarios```
+## ✅Class#11⚡️
+```Qué lenguaje y framework escoger para backend```
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
