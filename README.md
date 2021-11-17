@@ -31,5 +31,7 @@
 ```Proyecto: diseño y bosquejo de una API```
 ## ✅Class#9⚡️
 ```Proyecto: diseñando los endpoints de los Tweets```
+## ✅Class#10⚡️
+```Proyecto: diseñando los endpoints para los usuarios```
 ## 🚧Links🚨
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
